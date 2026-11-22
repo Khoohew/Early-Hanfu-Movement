@@ -21,7 +21,6 @@
 
 - [網絡交流總覽](online/README.md)
 - [2005 年天漢論壇：圓領服飾討論](online/2005-tianhan-round-collar-thread.md)
-- [2005 年天漢論壇：《大明衣冠何處？》轉帖](online/2005-tianhan-ming-attire-post.md)
 
 ## 語言版本
 
