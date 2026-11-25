@@ -28,7 +28,7 @@
 
 - [從金庸小說到漢服：我的歷史觀念形成與早期思考（2004 年 10 月 10 日）](online/2004-history-view-awakening.md)
 - [2005 年：第一次尋找漢服的記錄與早期認知](online/2005-first-hanfu-inquiry.md)
-- [漢服奧運服飾禮儀倡議：重慶聯絡人邱少華的親身經歷（2007 年 4 月 4 日）](online/2007-hanfu-olympics-initiative.md)
+- [2007 年 4 月 4 日漢服奧運服飾禮儀倡議：重慶聯絡人邱少華的親身經歷](online/2007-hanfu-olympics-initiative.md)
 - [早期論壇與網絡社群：個人記憶及公開資料考證](online/forums-and-communities.md)
 
 ## 語言版本
