@@ -27,6 +27,7 @@
 記錄本人接觸過的論壇與網絡社群、帳號、交流經歷，以及留存至今的網絡資料。
 
 - [早期論壇與網絡社群：個人記憶及公開資料考證](online/forums-and-communities.md)
+- [2007 年漢服奧運服飾禮儀倡議：重慶聯絡人邱宏（字少華）](online/2007-hanfu-olympics-initiative.md)
 
 ## 語言版本
 
