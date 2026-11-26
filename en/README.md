@@ -2,7 +2,7 @@
 
 **Period:** 2003–2007 (initial research)  
 **Archive type:** Personal historical archive, public-source research, and oral history project  
-**Co-created by:** Qiu Shaohua with AI assistants, including ChatGPT
+**Co-created by:** Qiu Shaohua with AI assistants, including ChatGPT and Claude
 
 This archive documents Qiu Shaohua's experiences related to the early Hanfu movement in China. It separates offline activities from online forum participation and preserves contemporary media reports, forum records, personal recollections, and open research questions.
 
@@ -21,4 +21,4 @@ English translations of individual records will be added and linked from their c
 - Preserve uncertainties about dates, locations, and participant identities.
 - Respect copyright and third-party privacy.
 
-This archive is researched and maintained collaboratively by Qiu Shaohua and AI assistants, including ChatGPT. AI-generated summaries and translations require human review against the original sources.
+This archive is researched and maintained collaboratively by Qiu Shaohua and AI assistants, including ChatGPT and Claude. AI-generated summaries and translations require human review against the original sources.
