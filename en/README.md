@@ -8,8 +8,8 @@ This archive documents Qiu Shaohua's experiences related to the early Hanfu move
 
 ## Main sections
 
-- Offline activities and real-world experiences — [繁體中文索引](../offline/README.md)
-- Online forums and digital exchanges — [繁體中文索引](../online/README.md)
+- Offline activities and real-world experiences — [繁體中文索引](../README.md#兩條主要脈絡)
+- Online forums and digital exchanges — [繁體中文索引](../README.md#兩條主要脈絡)
 
 English translations of individual records will be added and linked from their corresponding Chinese pages. The Chinese-language sources remain the primary evidence where original records were published in Chinese.
 
