@@ -17,12 +17,10 @@
 
 | 時間 | 類型 | 事件 | 狀態 |
 |---|---|---|---|
-| 2003 年 | 線下 | [德陽孔廟成人禮](offline/2003-deyang-adulthood-ceremony.md) | 整理中 |
+| 2003 年（時間待核） | 線下（德陽） | [德陽孔廟成人禮](offline/2003-deyang-adulthood-ceremony.md) | 整理中 |
 | 2004-10-10 | 線上 | [從金庸小說到漢服：歷史觀念形成與早期思考](online/2004-history-view-awakening.md) | 已完成 |
 | 2005-04-24 | 線上 | [第一次尋找漢服](online/2005-first-hanfu-inquiry.md) | 已完成 |
-| 2005-05-27 | 線上 | [註冊天漢民族文化論壇](online/forums-and-communities.md) | 整理中 |
-| 2006 年春節期間 | 線下 | [重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)（報導刊於 2006-02-07） | 整理中 |
-| 2006 年底 | 跨地域聯絡 | [聯絡新加坡漢服愛好者](offline/2006-2007-singapore-contact.md) | 整理中 |
+| 2006 年春節期間 | 線下（重慶） | [重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)（報導刊於 2006-02-07） | 整理中 |
 | 2007-04-04 | 線上 | [漢服奧運服飾禮儀倡議](online/2007-hanfu-olympics-initiative.md) | 已完成 |
 
 ## 兩條主要脈絡
