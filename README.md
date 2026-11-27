@@ -40,7 +40,7 @@
 - [第一次尋找漢服的記錄與早期認知（2005 年 4 月 24 日）](online/2005-first-hanfu-inquiry.md)
 - [漢服奧運服飾禮儀倡議：重慶聯絡人邱少華的親身經歷（2007 年 4 月 4 日）](online/2007-hanfu-olympics-initiative.md)
 - [掌摑閻崇年事件後的一份聲明建議稿：我的聯絡經歷（2008 年 10 月）](online/2008-statement-draft-liaison.md)
-- [早期論壇與網絡社群：個人記憶及公開資料考證](online/forums-and-communities.md)
+- [線上足跡：我與早期漢服論壇](online/forums-and-communities.md)
 
 ## 語言版本
 
