@@ -33,6 +33,7 @@
 - [2003 年德陽孔廟成人禮](offline/2003-deyang-adulthood-ceremony.md)
 - [2006 年重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)
 - [2006 年底至 2007 年新加坡交流線索](offline/2006-2007-singapore-contact.md)
+- [媒體報道索引：重慶漢服活動](offline/media-coverage.md)
 
 ### 二、網絡活動與線上交流
 記錄本人參與的網絡倡議、論壇與社群交流，以及留存至今的網絡資料。
