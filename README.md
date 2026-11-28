@@ -19,10 +19,10 @@
 |---|---|---|---|
 | 2004-10-10 | 線上 | [從金庸小說到漢服：歷史觀念形成與早期思考](online/2004-history-view-awakening.md) | 已完成 |
 | 2005-04-24 | 線上 | [第一次尋找漢服](online/2005-first-hanfu-inquiry.md) | 已完成 |
-| 2005-05-04（日期存疑） | 線下（重慶） | [沙坪壩的一次漢服圈聚會](offline/2005-05-04-shapingba-gathering.md) | 已完成 |
 | 2005-10-29 | 線下（德陽） | [德陽孔廟冠禮](offline/2005-10-29-deyang-coming-of-age.md) | 整理中 |
 | 2006（春節期間） | 線下（重慶） | [重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)（報導刊於 2006-02-07） | 整理中 |
 | 2006（約） | 線上 | [一段 QQ 群聊記錄](online/2006-qq-group-chat.md) | 已完成 |
+| 2006（約） | 線下（重慶） | [沙坪壩的一次漢服圈聚會](offline/2006-shapingba-gathering.md) | 已完成 |
 | 2007-04-04 | 線上 | [漢服奧運服飾禮儀倡議](online/2007-hanfu-olympics-initiative.md) | 已完成 |
 | 2008-10 | 線上 | [一份聲明建議稿的聯絡經歷](online/2008-statement-draft-liaison.md) | 已完成 |
 
@@ -32,8 +32,8 @@
 記錄成人禮、漢服外出、聚會、公共活動、媒體採訪及跨地域交流。
 
 - [德陽孔廟冠禮（2005 年 10 月 29 日）](offline/2005-10-29-deyang-coming-of-age.md)
-- [重慶沙坪壩的一次漢服圈聚會（相機日期 2005-05-04，存疑）](offline/2005-05-04-shapingba-gathering.md)
 - [2006 年重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)
+- [重慶沙坪壩的一次漢服圈聚會（約 2006 年）](offline/2006-shapingba-gathering.md)
 - [2006 年底至 2007 年新加坡交流線索](offline/2006-2007-singapore-contact.md)
 - [媒體報道索引：重慶漢服活動](offline/media-coverage.md)
 
