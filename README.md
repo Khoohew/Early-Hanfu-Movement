@@ -21,6 +21,7 @@
 | 2004-10-10 | 線上 | [從金庸小說到漢服：歷史觀念形成與早期思考](online/2004-history-view-awakening.md) | 已完成 |
 | 2005-04-24 | 線上 | [第一次尋找漢服](online/2005-first-hanfu-inquiry.md) | 已完成 |
 | 2006（春節期間） | 線下（重慶） | [重慶漢服活動與媒體報導](offline/2006-chongqing-event.md)（報導刊於 2006-02-07） | 整理中 |
+| 2006（約） | 線上 | [一段 QQ 群聊記錄](online/2006-qq-group-chat.md) | 已完成 |
 | 2007-04-04 | 線上 | [漢服奧運服飾禮儀倡議](online/2007-hanfu-olympics-initiative.md) | 已完成 |
 | 2008-10 | 線上 | [一份聲明建議稿的聯絡經歷](online/2008-statement-draft-liaison.md) | 已完成 |
 
@@ -40,6 +41,7 @@
 - [第一次尋找漢服的記錄與早期認知（2005 年 4 月 24 日）](online/2005-first-hanfu-inquiry.md)
 - [漢服奧運服飾禮儀倡議：重慶聯絡人邱少華的親身經歷（2007 年 4 月 4 日）](online/2007-hanfu-olympics-initiative.md)
 - [掌摑閻崇年事件後的一份聲明建議稿：我的聯絡經歷（2008 年 10 月）](online/2008-statement-draft-liaison.md)
+- [一段 QQ 群聊記錄：酒聚回憶與漢服圈舊友（約 2006 年）](online/2006-qq-group-chat.md)
 - [線上足跡：我與早期漢服論壇](online/forums-and-communities.md)
 
 ## 語言版本
